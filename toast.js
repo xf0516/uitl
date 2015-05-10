@@ -27,7 +27,7 @@ function toast(message,timeout) {
     bg.appendChild(p);
 
     document.body.appendChild(bg);
-    this.timer=setTimeout(function(){
+    setTimeout(function(){
     	var ta=document.getElementById("mytoast");
     	if(ta!=null)
         ta.remove();
