@@ -16,8 +16,8 @@ import com.google.common.collect.Lists;
 
 /**
  * 
- * @author wqi
- * @version $Id: ConvertBase.java, v 0.1 2015年8月24日 下午7:15:47 wqi Exp $
+ * @author xiafei
+ * @version $Id: ConvertBase.java, v 0.1 2015年8月24日 下午7:15:47 xiafei Exp $
  */
 public class ConvertBase {
 
