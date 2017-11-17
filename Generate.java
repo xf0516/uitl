@@ -30,6 +30,9 @@ public class Generate {
         this.intMax = intMax;
     }
 
+    /*
+    * 生成实体入口
+    */
     public Object treeClass(Class<?> clazz){
         return treeClass(clazz,null);
     }
